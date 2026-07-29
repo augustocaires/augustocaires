@@ -50,26 +50,6 @@ Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo 
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=augustocaires&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocaires&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=augustocaires&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 # 🏆 Certificações
 
 As minhas certificações e badges profissionais podem ser consultadas no Credly.
