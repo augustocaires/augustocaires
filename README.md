@@ -7,7 +7,7 @@
 Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo soluções que reduzem trabalho manual, aumentam a eficiência operacional e fortalecem a segurança dos ambientes de TI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augustocaires)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/augustocaires)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511971604680?text=Olá!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 
 </div>
 
@@ -17,7 +17,7 @@ Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo 
 
 - 🔐 Especialista em Infraestrutura e Segurança da Informação
 - ☁️ Experiência com ambientes Microsoft, Linux e Cloud
-- 🤖 Desenvolvimento de automações utilizando Python, PowerShell e IA
+- 🤖 Desenvolvimento de automações utilizando Python, PowerShell e Bash
 - 📈 Foco em otimização de processos e redução de custos operacionais
 - 📚 Sempre estudando novas tecnologias
 
@@ -34,19 +34,13 @@ Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo 
 ### Cloud
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Infraestrutura
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Segurança
 
@@ -76,39 +70,19 @@ Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo 
 
 ---
 
-# ⭐ Projetos em destaque
+# 🏆 Certificações
 
-> Atualize os links abaixo conforme criar ou publicar seus projetos.
+As minhas certificações e badges profissionais podem ser consultadas no Credly.
 
-| Projeto | Descrição |
-|----------|-----------|
-| 🤖 IA para Automação | Scripts e soluções utilizando IA para otimizar tarefas administrativas. |
-| 🔐 Ferramentas de Segurança | Ferramentas voltadas para auditoria, análise e segurança de ambientes. |
-| ☁️ Cloud | Projetos envolvendo Azure, AWS e infraestrutura em nuvem. |
-| 🐍 Python | Scripts para automação de infraestrutura e administração de sistemas. |
-| ⚡ PowerShell | Ferramentas para administração de ambientes Microsoft. |
-| 🖥️ Infraestrutura | Laboratórios e estudos de Windows Server, Linux e redes. |
-
----
-
-# 📜 Certificações
-
-- Microsoft
-- AWS
-- Cisco
-- Fortinet
-- CompTIA
-
-> *(Atualize esta lista com suas certificações reais.)*
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/augustocaires)
 
 ---
 
 # 📈 Atualmente estudando
 
-- 🛡️ Offensive Security
+- 🛡️ Comptia Security+
 - 🤖 Inteligência Artificial aplicada à Infraestrutura
 - ☁️ Azure Security
-- 🔥 DevSecOps
 
 ---
 
