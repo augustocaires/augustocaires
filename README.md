@@ -7,10 +7,9 @@ Especialista em Infraestrutura, Cloud, Automação e CyberSecurity.
 - Python
 - PowerShell
 - Linux
-- Docker
+- Virtualização
 - Azure
 - Microsoft 365
-- Active Directory
 
 ## 🛡️ Áreas de atuação
 
