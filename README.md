@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Augusto Caires 👋
 
-<!--
-**augustocaires/augustocaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista em Infraestrutura, Cloud, Automação e CyberSecurity.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- PowerShell
+- Linux
+- Docker
+- Azure
+- Microsoft 365
+- Active Directory
+
+## 🛡️ Áreas de atuação
+
+- Automação de Infraestrutura
+- Segurança da Informação
+- Cloud Computing
+- Inteligência Artificial aplicada à TI
+
+## 📌 Projetos em destaque
+
+- 🔐 Ferramentas de Segurança
+- 🤖 Automações com Python
+- ☁️ Infraestrutura em Cloud
+- 📊 Dashboards e Monitoramento
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/augustocaires
+- E-mail: augustocaires@proton.me
