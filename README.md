@@ -2,7 +2,7 @@
 
 # Olá, eu sou Augusto Caires 👋
 
-### Infraestrutura • Cloud • Cyber Security • Automação • Inteligência Artificial
+### Infraestrutura • Cloud • Cybersecurity • Automação • Inteligência Artificial
 
 Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo soluções que reduzem trabalho manual, aumentam a eficiência operacional e fortalecem a segurança dos ambientes de TI.
 
@@ -67,10 +67,6 @@ As minhas certificações e badges profissionais podem ser consultadas no Credly
 ---
 
 <div align="center">
-
-### 💬 Vamos nos conectar!
-
-Estou sempre aberto para conversar sobre tecnologia, automação, segurança da informação e oportunidades de colaboração.
 
 ⭐ Obrigado por visitar meu perfil!
 
