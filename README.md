@@ -2,8 +2,6 @@
 
 # Olá, eu sou Augusto Caires 👋
 
-### Infraestrutura • Cloud • Cybersecurity • Automação • Inteligência Artificial
-
 Apaixonado por tecnologia, automação e segurança da informação. Desenvolvo soluções que reduzem trabalho manual, aumentam a eficiência operacional e fortalecem a segurança dos ambientes de TI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augustocaires)
